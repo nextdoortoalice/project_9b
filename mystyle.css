@@ -1,0 +1,21 @@
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: purple;
+  margin-left: 20px;
+}
+
+.element1 {
+  padding-bottom: 10px;
+  font-size:75px;
+  line-height: 0.5rem;
+  background-color: cornsilk;
+  height: 100px;
+  transition: height 2s;
+}
+.element1:hover {
+  height: 300px;
+}
